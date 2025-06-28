@@ -1,0 +1,32 @@
+[
+  { "name": "Unbranded Gold Car", "price": "994.69", "category": "Industrial" },
+  { "name": "Modern Plastic Chicken", "price": "420.29", "category": "Kids" },
+  { "name": "Incredible Bamboo Car", "price": "18.25", "category": "Sports" },
+  {
+    "name": "Luxurious Bronze Towels",
+    "price": "627.12",
+    "category": "Jewelry"
+  },
+  {
+    "name": "Licensed Wooden Hat",
+    "price": "19.35",
+    "category": "Electronics"
+  },
+  { "name": "Unbranded Marble Mouse", "price": "378.95", "category": "Shoes" },
+  {
+    "name": "Licensed Ceramic Keyboard",
+    "price": "573.49",
+    "category": "Home"
+  },
+  { "name": "Soft Marble Table", "price": "838.05", "category": "Health" },
+  {
+    "name": "Fantastic Silk Salad",
+    "price": "62.85",
+    "category": "Industrial"
+  },
+  {
+    "name": "Handcrafted Concrete Computer",
+    "price": "624.31",
+    "category": "Kids"
+  }
+]
